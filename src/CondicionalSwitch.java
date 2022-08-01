@@ -38,6 +38,7 @@ public class CondicionalSwitch {
             break;
 
             default: JOptionPane.showMessageDialog(null, "El numero no esta en la lista");
+            break;
         }
     }
 }
