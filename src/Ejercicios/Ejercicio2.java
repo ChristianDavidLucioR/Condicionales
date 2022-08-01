@@ -17,7 +17,7 @@ public class Ejercicio2 {
         if (numero > numero2){
             JOptionPane.showMessageDialog(null,"El número "+numero+" es mayor al numero "+numero2);
         }
-        if (numero == numero2) {
+        if (numero == numero2) { // TAMBIEN SE PUEDE HACER CON UN ELSE IF //
             JOptionPane.showMessageDialog(null,"Ambos numeros son iguales");
         }
         if (numero < numero2) {
