@@ -21,6 +21,7 @@ public class Ejercicio14 {
                 4: Decigramos
                 5: Centigramos
                 6: Miligramos"""));
+
         switch (opciones) {
             case 1 -> {
                 masa *= 10;
